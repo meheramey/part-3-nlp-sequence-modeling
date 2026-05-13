@@ -1,0 +1,9 @@
+Text: I am very happy with the service, it was excellent!
+Predicted: NEUTRAL
+
+Text: The product stopped working after two days, very disappointing.
+Predicted: NEUTRAL
+
+Text: My order was delivered on time.
+Predicted: NEUTRAL
+

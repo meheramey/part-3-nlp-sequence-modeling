@@ -1,0 +1,3 @@
+Model,Vectorization,Test Accuracy (%)
+Logistic Regression (TF-IDF),TF-IDF,100.0
+LSTM (Embedding + Sequence),Tokenizer + Embedding,35.0
